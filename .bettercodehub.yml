@@ -1,0 +1,4 @@
+exclude:
+- /bin/.*
+- /exporters/.*
+- /resources/.*
