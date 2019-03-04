@@ -1,4 +1,6 @@
 exclude:
-- /bin/.*
-- /exporters/.*
-- /resources/.*
+  - /bin/.*
+  - /exporters/.*
+  - /resources/.*
+include:
+  - /src/.*
